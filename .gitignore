@@ -1,0 +1,10 @@
+﻿# 大文件走 Releases，不进 git
+*.xp3
+*.xp3.sig
+*.zip
+*.7z
+*.exe
+
+# 临时
+*.tmp
+*.log
